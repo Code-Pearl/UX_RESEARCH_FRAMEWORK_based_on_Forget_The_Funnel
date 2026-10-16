@@ -1,0 +1,1 @@
+*Forget the Funnel* (Georgiana Laudi and Claire Suellentrop) and *Workbook v1.0*. This guide tells an AI exactly how to run the Customer-Led Growth (CLG) research process on ONE project and fill the companion file forget-the-funnel-workbook.html (via its JSON save format). Follow it literally. Do not improvise.
